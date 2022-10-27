@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Dadi
 - 👀 I’m interested in Java Fullstack development 
 - 🌱 I’m currently working at WiproLimited
-- 💞️ I’m looking to work on Full stack development
+- 💞️ I’m looking to work on Java Full stack development
 - 📫 You can reach me out on phone 6304116855.
 
 
